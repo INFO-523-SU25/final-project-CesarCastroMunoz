@@ -1,8 +1,8 @@
 ---
-title: "Proposal title"
+title: "Uncovering Patterns and Anomalies in Manufacturing Data"
 subtitle: "Proposal"
 author: 
-  - name: "Team Name - Team member 1, Team member 2,..."
+  - name: "Sentinel Project - Cesar Castro"
     affiliations:
       - name: "College of Information Science, University of Arizona"
 description: "Project description"
@@ -35,6 +35,8 @@ import numpy as np
 A brief description of your dataset including its provenance, dimensions, etc. as well as the reason why you chose this dataset.
 
 Make sure to load the data and use inline code for some of this information.
+
+TBD
 
 ## Questions
 
